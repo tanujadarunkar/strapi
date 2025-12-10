@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  /**
+  /** Tanuja 
    * An asynchronous register function that runs before
    * your application is initialized.
    *
